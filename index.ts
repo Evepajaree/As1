@@ -14,7 +14,7 @@ const func = async () => {
     const sum = a - b
     console.log(sum)
     // test
-    console.log("JAN")
+    console.log("JANasdasd")
 
 }
 
